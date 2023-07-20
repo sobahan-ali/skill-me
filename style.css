@@ -13,3 +13,11 @@
 .price_color {
     color: var(--blue);
 }
+
+/* .mobile_width {
+    min-width: 100%;
+} */
+
+.mobile_text {
+    max-width: 70%;
+}
