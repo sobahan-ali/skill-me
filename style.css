@@ -1,0 +1,15 @@
+:root {
+    --blue: #289BDE;
+}
+
+.my_custom_filter {
+    filter: brightness(60%);
+}
+
+.bg_custom_color {
+    background-color: #fff7ef;
+}
+
+.price_color {
+    color: var(--blue);
+}
